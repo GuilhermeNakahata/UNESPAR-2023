@@ -16,9 +16,9 @@
 
 ## Slides 📝
 
-O slide utiizados na aulas podem ser visto aqui:
+Os slides utiizados nas aulas podem ser visto aqui:
 
-[Arquitetura e Organizacao de Computadores](./Arquitetura e Organizacao de Computadores.pdf).
+[Arquitetura e Organizacao de Computadores](./Arquitetura e Organizacao de Computadores).
 	
 ---
 	
