@@ -17,6 +17,12 @@
 ## Slides 📝
 
 Os slides utiizados nas aulas podem ser visto aqui.
+
+---
+
+## Cronograma das Disciplinas 📝
+
+O cronograma das disciplinas pode ser visto aqui [CRONOGRAMA](./Aulas-2023.pdf).
 	
 ---
 	
