@@ -10,7 +10,7 @@
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 	
 
-<h1 align="center"> Prova didática PSS - Graphics </h1>
+<h1 align="center"> Aulas </h1>
 
 ---
 
